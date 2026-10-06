@@ -11,20 +11,26 @@ I am **Melissa**. A 1st-year, cybersecurity-obsessed student at C.V. Raman Globa
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** *If you are reading this, you probably stumbled into my much earlier part of the journey!*
 
+## 🛠️ My Tech Stack & Journey
+
+### 🗄️ Languages & Databases
+* **C** — Currently learning in my engineering course!
+* **Python** — Formed a solid foundation via senior high school CS.
+* **MySQL** — Explored relational database handling basics.
+* **HTML5** — Played around with elementary tags way back in junior high.
+
+### 🌐 Foundations & Retro Tech
+* **Basic Networking** — Getting introduced to how data moves across the web.
+* **QBasic** — My very first coding memory from 6th/7th grade!
+
 ---
 
-### 🛠️ Tech Stack & Journey
-Here are the tools and languages I've explored from my school days up to my current engineering journey:
-
-**Languages & Databases:** C, Python, MySQL, HTML5  
-**Networking & Foundations:** Basic Networking, QBasic  
-
----
-
-### 🏆 My GitHub Trophies
-This row will dynamically display your coding achievements as you push more code:
-
-[![GotNoClue05's GitHub Trophies](https://vercel.app)](https://github.com)
+### 📈 Current Focus
+```text
+[▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░] 30% Foundation Year
+  ↳ Mastering C Fundamentals
+  ↳ Exploring Network Security Basics
+  ↳ Building an Anxiety-Free Dev Mindset
 
 <!--
 **GotNoClue05/GotNoClue05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
