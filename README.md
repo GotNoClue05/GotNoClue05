@@ -9,28 +9,22 @@ I won't take much of your time if you just wanted an introduction...
 I am **Melissa**. A 1st-year, cybersecurity-obsessed student at C.V. Raman Global University, Bhubaneswar, Odisha, India, trying to share stuff I make up randomly, explore the full ocean of information from people ahead of me, and try not to get anxious about it.😭😭😭
 
 - 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** *If you are reading this, you are probably stumbled into my much earlier part of the journey!*
+- ⚡ **Fun fact:** *If you are reading this, you probably stumbled into my much earlier part of the journey!*
+
+---
 
 ### 🛠️ Tech Stack & Journey
-Here are the tools and languages I've explored from school days up to my current engineering journey:
+Here are the tools and languages I've explored from my school days up to my current engineering journey:
 
-**Languages & Databases**
-![C](https://shields.io)
-![Python](https://shields.io)
-![MySQL](https://shields.io)
-![HTML5](https://shields.io)
+**Languages & Databases:** C, Python, MySQL, HTML5  
+**Networking & Foundations:** Basic Networking, QBasic  
 
-**Networking & Foundations**
-![Networking](https://shields.io)
-![QBasic](https://shields.io)
+---
 
--------
+### 🏆 My GitHub Trophies
+This row will dynamically display your coding achievements as you push more code:
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Melissa's GitHub stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Langs" height="180px" />
-</p>
+[![GotNoClue05's GitHub Trophies](https://vercel.app)](https://github.com)
 
 <!--
 **GotNoClue05/GotNoClue05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
