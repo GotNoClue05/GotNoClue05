@@ -6,7 +6,7 @@ You found me for the same reason I started everything in the first place. 😅
 
 I won't take much of your time if you just wanted an introduction...
 ## 🚀Introduction
-I am **Melissa**. A 1st-year, cybersecurity-obsessed student at C.V. Raman Global University, Bhubaneswar, Odisha, India, trying to share stuff I make up randomly, explore the full ocean of information from people ahead of me, and try not to get anxious about it.😭😭😭
+I am **Melissa**. A 1st-year, cybersecurity-obsessed student at C.V. Raman Global University, Bhubaneswar, Odisha, India, trying to slowly turn random ideas into things I can actually build, explore the full ocean of information from people ahead of me, and try not to get anxious about it.😭😭😭
 
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** *If you are reading this, you probably stumbled into my much earlier part of the journey!*
