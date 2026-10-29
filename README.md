@@ -1,6 +1,6 @@
 ## Wassup!😁
 
-You clicked on 'Secret' because you were curious, weren't you?
+You clicked on 'README.md' because you were curious, weren't you?
 Well, there you have it! 🤩 
 You found me for the same reason I started everything in the first place. 😅
 
